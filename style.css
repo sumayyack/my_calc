@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(1, 14, 14);
+}
+
+.first-row{
+    margin-top: 50px;
+}
+button{
+    width: 50px;
+}
+.small{
+    width: 170px;
+    height: 50px;
+}
+.btn-danger{
+    width:40px;
+    height: 50px;
+}
+.second-row{
+    margin-top: 10px;
+}
+div{
+   margin-top 10px;;
+}
